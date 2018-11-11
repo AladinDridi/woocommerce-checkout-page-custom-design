@@ -1,0 +1,268 @@
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */
+#payment{
+ background: #eee;
+ border: 1px solid #c0c0c0;
+ border-radius: 5px;
+ padding: 10px 15px 5px;
+}
+.checkout .payment_methods .payment_box{
+background-color:transparent;
+}
+
+.shop_table {
+    width: 100%;
+    text-align: left;
+    margin: 0;
+    display: none;
+}
+ .header .header-wrap, .inner-wrap {
+    max-width: 58.7em;
+    margin: 0px auto;
+}
+.header .header-wrap .logo {
+    width: 236px;
+    max-width: 48%;
+    height: 28px;
+    display: block;
+    float: left;
+    margin: 1.125em 0px;
+}
+.header .header-wrap img {
+    max-width: 100%;
+}
+.header .header-wrap .parent-brand {
+    max-width: 121px;
+    float: right;
+    margin: 1em 0px 0px;
+    display: block;
+    position:relative;
+    left:300px;
+}
+.header .header-wrap img {
+    max-width: 100%;
+} 
+    .containercustomform{
+    background: #fff;
+    margin-top: 150px;
+    float: left;
+    width: 60%;
+    background: #fff;
+    /* box-shadow: 0px 0px 4px 0px rgba(0,0,0,.08); */
+    border: solid 1px #eeeeee;
+    padding: 1.25em 1.875em 2em;
+    }
+.woocommerce .checkout_coupon .coupon-button {
+    margin: 0;
+    padding: 5px 7.5px;
+    display: none;
+}
+.woocommerce .checkout_coupon .coupon-input {
+    width: 240px;
+    margin: 0;
+    padding: 5px 7.5px;
+    display: none;
+}
+.promo-code-heading , .fusion-alignright{
+display:none !important;
+}
+ .billingcartpurchase{
+    background: #eee;
+    border: 1px solid #c0c0c0;
+    border-radius: 5px;
+    padding: 10px 15px 5px;
+    }
+    
+   .header .header-wrap, .inner-wrap {
+    max-width: 58.7em;
+    margin: 0px auto;
+}
+.checkout_coupon{
+ display:none;
+}
+
+.header .header-wrap .logo {
+    width: 236px;
+    max-width: 48%;
+    height: 28px;
+    display: block;
+    float: left;
+    margin: 1.125em 0px;
+}
+.header .header-wrap img {
+    max-width: 100%;
+}
+.header .header-wrap .parent-brand {
+    max-width: 121px;
+    float: right;
+    margin: 1em 0px 0px;
+    display: block;
+}
+.header .header-wrap img {
+    max-width: 100%;
+} 
+   
+#ORDER_FORM_PRODUCT_LIST p{
+margin-bottom:1.2em;
+line-height:1.6em;
+font-family:"Proxima Nova",sans-serif;
+font-size:14px;
+color:slategray;
+}
+   #iwt-viewcart-title{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: .3em;
+    letter-spacing: 0px;
+    line-height: 1.2em;
+   }
+      .woocommerce form{
+        width:100%;
+        }
+     .avada-myaccount-user{
+      display:none;
+       }
+     .woocommerce-checkout{
+    float: left;
+    width: 60%;
+    background: #fff;
+    /* box-shadow: 0px 0px 4px 0px rgba(0,0,0,.08); */
+    border: solid 1px #eeeeee;
+    padding: 1.25em 1.875em 2em; 
+     }
+    .additionelcustomwidget{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    position: absolute;
+    right: 197px;
+    top: 162px;  
+    }   
+    .additionelcustomwidget .auteurimage{
+    width: 300px;
+              vertical-align: middle;  
+
+    }
+     .addit;ionelcustomwidget p{
+      text-align: center;    
+     }
+    .additionelcustomwidget .signaturedauteur {
+     width: 220px;
+    }
+    .additionelcustomwidget .imagesecret{
+    width: 80%;
+    margin: 15px 10%;   
+    }
+    .securisedetail{
+     display:inline-block;
+     margin-top: 10px;
+     text-align: center;
+     }
+     .securisedetail img{
+      vertical-align: middle; 
+      }
+     .securisedetail p{
+      font-size: .75em;
+      margin-top: 1em;
+      color: #999;
+      }
+.woocommerce-billing-fields h3:first-child{
+    background: #fcfcfc;
+    border-bottom: solid 1px #eeeeee;
+    padding: .5em 1.875em;
+    margin: -1.25em -1.875em 1.75em -1.875em;
+    font-weight: bold;
+    margin-bottom: 0px;
+    font-size: 0.9rem !important;
+    white-space: nowrap;
+}
+.woocommerce form  input[type="text"] {
+    font-family: 'salvo', sans-serif;
+    width: 100%;
+    margin-bottom: .625em;
+    font-size: .875em;
+    padding: .285714286em;
+    border: solid 1px #ccc;
+    background: #fff;
+    box-shadow: inset 0px 1px 2px 0px rgba(0,0,0,.1);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+@media (max-width:1024px){
+.woocommerce-checkout{
+    float: left;
+    width: 100%;
+    background: #fff;
+    /* box-shadow: 0px 0px 4px 0px rgba(0,0,0,.08); */
+    border: solid 1px #eeeeee;
+    padding: 1.25em 1.875em 2em; 
+}
+.additionelcustomwidget {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    position: relative;
+    right: -100px;
+    top: 10px;
+}
+.woocommerce-billing-fields h3:first-child{
+    background: #fcfcfc;
+    border-bottom: solid 1px #eeeeee;
+    padding: .5em 1.875em;
+    margin: -1.25em -1.875em 1.75em -1.875em;
+    font-weight: bold;
+    margin-bottom: 0px;
+    font-size: 0.9rem !important;
+    white-space: inherit;
+}  
+}
+@media (max-width:450px){
+.woocommerce form {
+ width: 125%;
+ position: relative;
+ left: -40px;
+}
+.additionelcustomwidget {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    position: relative;
+    right: -72px;
+    top: 10px;
+}
+}
+@media (max-width:375px){
+.woocommerce form {
+   width: 150%;
+    position: relative;
+    left: -50px;
+}
+  #payment{
+      width: 15rem;
+    position: relative;
+    left: -45px;
+  }
+.additionelcustomwidget {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    position: relative;
+    right: -72px;
+    top: 10px;
+}
+}
